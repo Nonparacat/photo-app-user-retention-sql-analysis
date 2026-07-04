@@ -1,0 +1,8 @@
+step,users,conversion_from_previous,conversion_from_registered
+registered,5000,1.0,1.0
+app_open,4958,0.9916,0.9916
+photo_upload,4114,0.8298,0.8228
+filter_use,3359,0.8165,0.6718
+photo_export,2266,0.6746,0.4532
+subscription_click,668,0.2948,0.1336
+paid,174,0.2605,0.0348

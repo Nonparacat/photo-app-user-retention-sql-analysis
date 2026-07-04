@@ -1,0 +1,6 @@
+channel,registered_users,active_users,paid_users,revenue,activation_rate,payment_conversion_rate,arppu
+app_store,1014,1012,42,1380.0,0.998,0.0414,32.86
+douyin_ads,1319,1295,20,978.0,0.9818,0.0152,48.9
+organic,1170,1162,25,750.0,0.9932,0.0214,30.0
+wechat,551,545,11,418.0,0.9891,0.02,38.0
+xiaohongshu,946,944,76,2622.0,0.9979,0.0803,34.5

@@ -1,0 +1,13 @@
+channel,retention_day,cohort_users,retained_users,retention_rate
+all,1,5000,2428,0.4856
+all,7,5000,923,0.1846
+organic,1,1170,594,0.5077
+organic,7,1170,226,0.1932
+douyin_ads,1,1319,521,0.395
+douyin_ads,7,1319,207,0.1569
+xiaohongshu,1,946,551,0.5825
+xiaohongshu,7,946,204,0.2156
+app_store,1,1014,511,0.5039
+app_store,7,1014,199,0.1963
+wechat,1,551,251,0.4555
+wechat,7,551,87,0.1579
