@@ -92,7 +92,7 @@ photo-app-user-retention-sql-analysis/
 
 ## Excel Dashboard Preview
 
-![Excel Dashboard Preview](excel_dashboard/dashboard_preview.png)
+![Excel Dashboard Preview](excel_dashboard/excel_dashboard.png)
 
 ## 6. 关键业务结论
 
