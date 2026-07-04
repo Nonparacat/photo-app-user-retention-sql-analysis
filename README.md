@@ -90,6 +90,10 @@ photo-app-user-retention-sql-analysis/
 
 ![Channel Comparison](figures/channel_comparison.png)
 
+## Excel Dashboard Preview
+
+![Excel Dashboard Preview](excel_dashboard/dashboard_preview.png)
+
 ## 6. 关键业务结论
 
 基于模拟样例数据，可得到以下业务分析结论：
